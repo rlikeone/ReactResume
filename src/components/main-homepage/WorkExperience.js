@@ -35,6 +35,7 @@ function WorkExperience() {
         <ul>
           <li>{t("listWork.workData.0.bulletpoints.0")}</li>
           <li>{t("listWork.workData.0.bulletpoints.1")}</li>
+          <li>{t("listWork.workData.0.bulletpoints.2")}</li>
         </ul>
       </div>
 

@@ -20,8 +20,9 @@
         "position": "Frontend Developer Uniware Computer Systems B.V.",
         "timeframe": "2019 - heden",
         "bulletpoints": [
-          "Frontend development applicatie plantenbranche",
-          "HTML5, CSS3, Javascript, Vue.js"
+          "Frontend development, applicatie voor de plantenbranche",
+          "HTML5, CSS3, Javascript, Vue.js",
+          "Ik heb met enorm veel plezier gewerkt aan het vernieuwen van de bestaande applicatie voor kwekers in de bloemen- en plantenbranche. Dit was een text-based applicatie gebouwd in C/C++ die moderner moest ogen en veel intuïtiever moest zijn voor de eindgebruiker. Ik heb met gebruikmaking van HTML5, CSS3, Javascript en Vue.js aan de UI gewerkt. Daarnaast heb ik voor verschillende klanten hun bestaande website vernieuwd en overgezet naar een moderne CMS op WordPress."
         ]
       },
       {
@@ -90,7 +91,7 @@
         "id": 8,
         "position": "Diverse uitzendbaantjes",
         "timeframe": "2003 - 2006",
-        "bulletpoints": ["Sales.", "Promotion."]
+        "bulletpoints": ["Direct marketing.", "Sales Rep."]
       },
       {
         "id": 9,
@@ -168,7 +169,7 @@
       {
         "id": 5,
         "projectName": "Uniware bedrijfswebsite",
-        "projectInfo": "Een strak en fris gestroomlijnd WordPress CMS bedrijfswebsite voor software bdrijf Uniware Computer Systems B.V."
+        "projectInfo": "Een strak en fris gestroomlijnde WordPress CMS bedrijfswebsite voor software bdrijf Uniware Computer Systems B.V."
       },
       {
         "id": 4,

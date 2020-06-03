@@ -20,8 +20,9 @@
         "position": "Frontend Developer Uniware Computer Systems B.V.",
         "timeframe": "2019 - present",
         "bulletpoints": [
-          "Frontend development floriculture application",
-          "HTML5, CSS3, Javascript, Vue.js"
+          "Frontend development, application for the plant industry",
+          "HTML5, CSS3, Javascript, Vue.js",
+          "I have enjoyed working on renewing the existing application for growers in the flower and plant industry. This was a text-based application, built in C/C++ that had to look more modern and much more intuitive for the end user. I have been working on the UI using HTML5, CSS3, Javascript and Vue.js. In addition, I have renewed existing websites for various customers and transferred it to a modern CMS on WordPress."
         ]
       },
       {
@@ -122,7 +123,7 @@
       {
         "id": 2,
         "education": "Marketing HBO",
-        "timeframe": "2017 - 2018"
+        "timeframe": "2015 - 2017"
       },
       {
         "id": 3,
@@ -138,7 +139,7 @@
   },
   "projects": {
     "heading": "Projects",
-    "content": "These are a number of projects that I have worked on with great pleasure. They range from HTML5, CSS3, Javascript, React and Vue.js to Salesforce.com projects.",
+    "content": "These are a number of projects that I have enjoyed working on with great pleasure. They range from HTML5, CSS3, Javascript, React and Vue.js to Salesforce.com projects.",
     "view": "View project",
     "projectsData": [
       {
@@ -169,7 +170,7 @@
       {
         "id": 4,
         "projectName": "4-Attention company website",
-        "projectInfo": "Company website for 4-Attention. A distibutor for accessories in the flower and plant industry."
+        "projectInfo": "Company website for 4-Attention. A distributor for accessories in the flower and plant industry."
       },
       {
         "id": 4,
@@ -179,7 +180,7 @@
       {
         "id": 4,
         "projectName": "Real estate template",
-        "projectInfo": "A clean and sleek real estate template built with passion React. Free to use to showcase real estate listings."
+        "projectInfo": "A clean and sleek real estate template built with passion and React. Free to use to showcase real estate listings."
       },
       {
         "id": 4,
